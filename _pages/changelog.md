@@ -5,20 +5,13 @@ include_in_header: true
 ---
 
 # Version History
-Be sure to check for updates as Sonas Chef Journal is updated regularly!
+Be sure to check for updates as Virtual Backgrounds is updated regularly!
 
 <br>
 ### `Latest Release`
-# **Version 1.5**
-• In-app Dark Mode setting -- turn the lights off in the Settings tab for a gorgeous Dark Mode<br>
-• Multiple pictures -- you can now add up to 3 pictures per post<br>
-• Added an all-new menu when viewing entries for sharing, adding to favorites, or deleting<br>
-• Numerous bug fixes and improvements throughout the app<br>
-
-
-### `Initial Release`
-## **Version 1.0**
-Sonas Chef Journal is your culinary companion, featuring a clean and streamlined design for tracking and rating the meals and drinks you create. Whether you're a seasoned chef, or just getting started in the kitchen, Sonas Chef Journal will help you maintain a culinary database.
-
-#### 1.0.1
-• Bug fixes and improvements
+# **Version 2.0**
+Version 2.0 is the biggest update since the launch of Virtual Backgrounds! 
+• Landscape support is here! Both iPad and iPhone users can browse beautiful backgrounds in portait or landscape mode<br>
+• Improved image browsing performance -- version 2.0 uses an all new image viewer object to make scrolling through image faster and smoother
+• User experience improvements -- many enhancements and tweaks throughout the app
+• Over 100 hand-picked backgrounds including a growing catalog of original content
