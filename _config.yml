@@ -59,15 +59,15 @@ features                                  :
     fontawesome_icon_name                 : thumbs-up
 
   - title                                 : No Ads
-    description                           : Enjoy creating and browsing your entries without disruptive ads.
+    description                           : Enjoy the full app without disruptive ads.
     fontawesome_icon_name                 : ad
 
   - title                                 : No Subscription
-    description                           : Download once and call it a day.
+    description                           : Pay once and call it a day.
     fontawesome_icon_name                 : credit-card
 
-  - title                                 : No Locked Features
-    description                           : Free download unlocks all features up front.
+  - title                                 : No In App Purchases
+    description                           : One purchase unlocks all features up front.
     fontawesome_icon_name                 : info-circle
 
   - title                                 : # New Feature Title
