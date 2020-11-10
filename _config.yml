@@ -35,16 +35,16 @@ youtube_username                          :
 features                                  :
 
   - title                                 : For the remote worker
-    description                           : Professionals
-    fontawesome_icon_name                 : heart
+    description                           : Great for the professionals regularly on virtual meetings.
+    fontawesome_icon_name                 : user-tie
     
-  - title                                 : For the game streamer
-    description                           : 
-    fontawesome_icon_name                 : heart
+  - title                                 : For the streamer
+    description                           : Stand out on your stream with fun and unique scenes.
+    fontawesome_icon_name                 : headset
     
   - title                                 : For the modern get-together
-    description                           : 
-    fontawesome_icon_name                 : heart
+    description                           : 10 categories provide a wide variety of high quality backgrounds.
+    fontawesome_icon_name                 : users
     
   - title                                 : Apple Exclusive
     description                           : Built specifically for iOS and iPadOS.
