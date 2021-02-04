@@ -21,7 +21,7 @@ Exciting news! The Virtual Backgrounds App has been rebuilt from the ground up i
 Why does it matter that the app was rebuilt in native SwiftUI? This means that the app is setup for longer-term support, feature additions, improvements, and expanded device support. I'm excited to be able to continue adding new capabilities to future Virtual Background updates, as well as getting a macOS version out soon. 
 Although this release is technically "3.0" it's almost like a "1.0" as we're starting fresh with this completely new user experience. I hope you like it!
 
-Unfortunately this also means dropping support for older iOS versions. If you're on any of the following devices, the good news is that your device supports iOS 14!<br>
+Unfortunately this also means dropping support for older iOS versions. Please be sure your device supports iOS 14!<br>
 
 
 ### `Last Release`
