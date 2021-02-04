@@ -24,8 +24,8 @@ Although this release is technically "3.0" it's almost like a "1.0" as we're sta
 Unfortunately this also means dropping support for older iOS versions. If you're on any of the following devices, the good news is that your device supports iOS 14!<br>
 
 
-### `Latest Release`
-# **Version 2.0**
+### `Last Release`
+## **Version 2.0**
 Version 2.0 is the biggest update since the launch of Virtual Backgrounds!<br>
 • Landscape support is here! Both iPad and iPhone users can browse beautiful backgrounds in portait or landscape mode<br>
 • Improved image browsing performance -- version 2.0 uses an all new image viewer object to make scrolling through image faster and smoother<br>
