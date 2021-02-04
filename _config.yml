@@ -47,11 +47,11 @@ features                                  :
     fontawesome_icon_name                 : users
     
   - title                                 : Apple Exclusive
-    description                           : Built specifically for iOS and iPadOS.
+    description                           : Built using SwiftUI and designed specifically for iOS and iPadOS.
     fontawesome_icon_name                 : mobile
 
   - title                                 : Privacy First
-    description                           : Your data never leaves your device unless you share with 3rd party apps.
+    description                           : Your information never leaves your device unless you share with 3rd party apps.
     fontawesome_icon_name                 : lock
 
   - title                                 : Intuitive Design
