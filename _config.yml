@@ -47,7 +47,7 @@ features                                  :
     fontawesome_icon_name                 : users
     
   - title                                 : Apple Exclusive
-    description                           : Built using SwiftUI and designed specifically for iOS and iPadOS.
+    description                           : Built using SwiftUI and designed specifically for iOS, iPadOS, and macOS.
     fontawesome_icon_name                 : mobile
 
   - title                                 : Privacy First
