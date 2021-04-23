@@ -14,7 +14,7 @@ I’m looking to expand and feature **artists and photographers** who have creat
 1. A dedicated section in the app that features your work
 2. An Artist Profile page that contains your bio and links to your website, social links, etc
 
-If you’d be interested in getting your art featured in the app, feel free to drop me a note! 
+If you’d be interested in getting your art featured in the app, just drop me a note! 
 
 ## About Virtual Backgrounds App
 - Features a finite selection of hand-picked backgrounds specifically chosen for leveling up your next video conference
