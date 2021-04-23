@@ -4,7 +4,7 @@ title: Get Featured
 include_in_header: true
 ---
 
-# Want to get your art featured?
+# Call For Artist Submissions
 
 Virtual Backgrounds highlights a finite selection of hand-picked and original backgrounds specifically chosen for leveling up your next video conference. Users can save these backgrounds to their devices to use with their video conferencing tool (Zoom, Teams, etc).
 
@@ -18,6 +18,6 @@ If you’d be interested in getting your art featured in the app, feel free to d
 
 ## About Virtual Backgrounds App
 - Features a finite selection of hand-picked backgrounds specifically chosen for leveling up your next video conference
-- No. 8 App on App Store in Utilities for iPad last year
+- No. 8 App in Utilities for iPad last year
 - A growing user base: 20,000 users with 4,000,000 App Store Impressions (and it’s only 1 year old)
 
