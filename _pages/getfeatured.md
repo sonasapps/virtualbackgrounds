@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Get Featured
-include_in_header: false
+include_in_header: true
 ---
 
 # Want to get your art featured?
