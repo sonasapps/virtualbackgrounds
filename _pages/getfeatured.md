@@ -10,9 +10,9 @@ Virtual Backgrounds highlights a finite selection of hand-picked and original ba
 
 I’m looking to expand and feature **artists and photographers** who have created pieces that would work well as a virtual background.
 
-## What you would get
+## What you get
 1. A dedicated section in the app that features your work
-2. An Artist Profile page that contains your bio and links to your work
+2. An Artist Profile page that contains your bio and links to your website, social links, etc
 
 If you’d be interested in getting your art featured in the app, feel free to drop me a note! 
 
