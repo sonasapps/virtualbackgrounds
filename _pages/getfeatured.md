@@ -31,12 +31,15 @@ If you're interested in getting your work featured, please fill out the below fo
     <label for="full-name">Name</label>
     <input type="text" name="name" id="full-name" placeholder="Required" required="">
     <br>
+    <br>
     <label for="email-address">Email</label>
     <input type="email" name="_replyto" id="email-address" placeholder="email@domain.tld" required="">
+    <br>
     <br>
     <label for="message">Message</label>
     <textarea rows="5" name="message" id="message" placeholder="Ask questions or link to sample work here" required=""></textarea>
     <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
   </fieldset>
+  <br>
   <input type="submit" value="Submit">
 </form>
