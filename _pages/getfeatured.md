@@ -21,3 +21,22 @@ If you’d be interested in getting your art featured in the app, just drop me a
 - No. 8 App in Utilities for iPad last year
 - A growing user base: 20,000 users with 4,000,000 App Store Impressions (and it’s only 1 year old)
 
+<!-- modify this form HTML and place wherever you want your form -->
+
+<form
+  action="https://formspree.io/f/xjvjgbep"
+  method="POST"
+>
+  <label>
+    Your email:
+    <input type="email" name="_replyto">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+
+  <!-- your other form fields go here -->
+
+  <button type="submit">Send</button>
+</form>
