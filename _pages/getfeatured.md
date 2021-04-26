@@ -18,7 +18,7 @@ If you’d be interested in getting your art featured in the app, just drop me a
 
 ## About Virtual Backgrounds App
 - Features a finite selection of hand-picked backgrounds specifically chosen for leveling up your next video conference
-- No. 8 App in Utilities for iPad last year
+- No. 8 App in Utilities for iPad last year (and it's contstantly trending in the top 100 ranks)
 - A growing user base: 20,000 users with 4,000,000 App Store Impressions (and it’s only 1 year old)
 
 ## Let's get started!
